@@ -1,17 +1,24 @@
-body {
-	background-color: pink; 
+body {background-color: pink; 
 }
 
-h1 {
-	font-size:70px;
+h1 {font-size:70px;
 	color:blue;
 	font-family: impact;
 	padding-top: 50; 
 
 }
 
-h2 {
-	font-size: 54px;
+h2 {font-size: 54px;
 	color:purple;
+	font-family: impact;
+}
+
+h3 {font-size: 30px;
+	color: lightgreen;
+	font-family: impact;
+}
+
+ul {font-size: 30px;
+	color: lightgreen;
 	font-family: impact;
 }
