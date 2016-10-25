@@ -4,13 +4,14 @@ body {
 
 h1 {
 	font-size:70px;
-	color:darkblue;
+	color:blue;
 	font-family: impact;
+	padding-top: 50; 
 
 }
 
 h2 {
 	font-size: 54px;
 	color:purple;
-	font-family: tahoma;
+	font-family: impact;
 }
