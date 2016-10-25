@@ -6,7 +6,6 @@ h1 {font-size:70px;
 	font-family: impact;
 	padding-top: 50;
 	text-align: center; 
-
 }
 
 h2 {font-size: 54px;
@@ -14,12 +13,7 @@ h2 {font-size: 54px;
 	font-family: impact;
 }
 
-h3 {font-size: 30px;
-	color: teal;
-	font-family: impact;
-}
-
-ul {border-style: solid;
+div {border-style: solid;
 	border-width: 10px;
 	border-color: teal;
 	font-size: 30px;
