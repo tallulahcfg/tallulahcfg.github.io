@@ -4,4 +4,13 @@ body {
 
 h1 {
 	font-size:70px;
+	color:darkblue;
+	font-family: impact;
+
+}
+
+h2 {
+	font-size: 54px;
+	color:purple;
+	font-family: tahoma;
 }
