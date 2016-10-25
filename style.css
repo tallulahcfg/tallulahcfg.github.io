@@ -19,7 +19,9 @@ h3 {font-size: 30px;
 	font-family: impact;
 }
 
-ul {font-size: 30px;
+ul {border-width: 10px;
+	border-color: teal;
+	font-size: 30px;
 	color: teal;
 	font-family: impact;
 }
